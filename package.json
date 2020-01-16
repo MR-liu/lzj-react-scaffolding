@@ -1,6 +1,6 @@
 {
   "name": "lzj-react-Scaffolding",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/MR-liu/lzj-react-Scaffolding/issues"
   },
-  "homepage": "https://github.com/MR-liu/lzj-react-Scaffolding#readme"
+  "homepage": "https://github.com/MR-liu/lzj-react-Scaffolding#readme",
+  "dependencies": {
+    "minimist": "^1.2.0"
+  }
 }
